@@ -1,0 +1,5 @@
+mdtraj
+matplotlib
+nglview
+jupyterhub
+jupyterlab
